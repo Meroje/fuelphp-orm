@@ -1,5 +1,5 @@
 {
-  "name": "novius-os/fuelphp-orm",
+  "name": "novius-os/orm",
   "replace": {
     "fuel/orm": "self.version"
   },
