@@ -1,5 +1,6 @@
 {
-  "name": "fuel/orm",
+  "name": "novius-os/fuelphp-orm",
+  "replace": [ "fuel/orm" ],
   "require": {
     "composer/installers": "~1.0"
   },
